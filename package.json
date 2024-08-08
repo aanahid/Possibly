@@ -1,0 +1,22 @@
+{
+  "name": "possibly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanahid/Possibly.git"
+  },
+  "author": "Lark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aanahid/Possibly/issues"
+  },
+  "homepage": "https://github.com/aanahid/Possibly#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
